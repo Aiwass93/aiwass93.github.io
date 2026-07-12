@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<h1>{{ page.title | escape }}</h1>
+<nav><a href="/gallery/">all</a>{% for gallery in site.data.galleries %} / <a href="/gallery/{{ gallery.slug }}/">{{ gallery.title | escape }}</a>{% endfor %}</nav>
+{% assign items = site.gallery | sort: "slug" %}
+{% for item in items %}
+{% if item.group %}
+{% assign members = items | where: "group", item.group %}
+{% assign first = members | first %}
+{% assign pinned = members | where: "pinned", true %}
+{% if item.slug == first.slug and pinned != empty %}{% for member in members %}{% include gallery-item.html item=member %}{% endfor %}{% endif %}
+{% elsif item.pinned %}{% include gallery-item.html item=item %}
+{% endif %}
+{% endfor %}
+{% for item in items %}
+{% if item.group %}
+{% assign members = items | where: "group", item.group %}
+{% assign first = members | first %}
+{% assign pinned = members | where: "pinned", true %}
+{% if item.slug == first.slug and pinned == empty %}{% for member in members %}{% include gallery-item.html item=member %}{% endfor %}{% endif %}
+{% elsif item.pinned == nil or item.pinned == false %}{% include gallery-item.html item=item %}
+{% endif %}
+{% endfor %}
+<p><a href="/">back</a></p>

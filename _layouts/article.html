@@ -1,0 +1,7 @@
+---
+layout: default
+---
+<h1>{{ page.heading | default: page.title | escape }}</h1>
+<p>{{ page.date | date: "%Y-%m-%d" }}</p>
+{{ content }}
+<p><a href="/">back</a></p>

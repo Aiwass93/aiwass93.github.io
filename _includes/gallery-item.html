@@ -1,0 +1,13 @@
+{% assign description = include.item.alt | default: "" | strip %}{% if page.tag == nil or include.item.tags contains page.tag %}
+<h2>{% if include.item.link %}<a href="{{ include.item.link | escape }}">{{ include.item.title | escape }}</a>{% else %}{{ include.item.title | escape }}{% endif %}</h2>
+<p><small>{{ include.item.date | date: "%Y-%m-%d" }}</small></p>
+<figure>
+{% if include.item.nsfw %}<details><summary>{{ include.item.nsfw_prompt | escape }}</summary>
+<img src="{{ include.item.image | escape }}" alt="{{ description | escape }}" width="{{ include.item.width }}" height="{{ include.item.height }}" loading="lazy">
+</details>
+{% else %}
+<img src="{{ include.item.image | escape }}" alt="{{ description | escape }}" width="{{ include.item.width }}" height="{{ include.item.height }}" loading="lazy">
+{% endif %}
+{% if description != "" %}<figcaption>{{ description | escape }}</figcaption>{% endif %}
+</figure>
+{% endif %}

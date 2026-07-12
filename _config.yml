@@ -1,0 +1,5 @@
+collections: [gallery]
+exclude: [README.md]
+markdown: kramdown
+kramdown:
+  hard_wrap: true

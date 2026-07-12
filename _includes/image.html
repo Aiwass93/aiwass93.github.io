@@ -1,0 +1,8 @@
+{% assign record = site.gallery | where: "image", include.src | first %}{% assign description = include.alt | default: record.alt | default: "" | strip %}{% assign width = include.width | default: record.width %}{% assign height = include.height | default: record.height %}{% if record.nsfw %}
+<figure>
+<details><summary>{{ record.nsfw_prompt | escape }}</summary>
+<img src="{{ include.src | escape }}" alt="{{ description | escape }}"{% if width %} width="{{ width }}"{% endif %}{% if height %} height="{{ height }}"{% endif %} loading="lazy">
+</details>
+{% if description != "" %}<figcaption>{{ description | escape }}</figcaption>{% endif %}
+</figure>
+{% else %}<img src="{{ include.src | escape }}" alt="{{ description | escape }}"{% if width %} width="{{ width }}"{% endif %}{% if height %} height="{{ height }}"{% endif %} loading="lazy">{% endif %}

@@ -1,0 +1,11 @@
+---
+layout: default
+title: website
+---
+<h1>website</h1>
+<p>This is my personal website.</p>
+<p><a href="/about.html">about</a> / <a href="/links.html">links</a> / <a href="/contact.html">contact</a> / <a href="/gallery/">gallery</a></p>
+<h2>Articles</h2>
+{% for post in site.posts %}<a href="{{ post.url }}">{{ post.title | escape }}</a><br>{% endfor %}
+<h2>Projects</h2>
+{% for project in site.data.projects %}<a href="{{ project.url }}">{{ project.title | escape }}</a><br>{% endfor %}

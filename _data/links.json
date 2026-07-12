@@ -1,0 +1,182 @@
+[
+  {
+    "title": "My links",
+    "links": [
+      {
+        "name": "RateYourMusic",
+        "label": "~music_enjoyer1990",
+        "url": "https://rateyourmusic.com/~music_enjoyer1990",
+        "description": "All music I've listened and rated."
+      },
+      {
+        "name": "Bilibili",
+        "label": "@天鹅司令",
+        "url": "https://space.bilibili.com/2022743444",
+        "description": "My musical works of noise, generative music and more. this account also upload albums that I like."
+      },
+      {
+        "name": "Pixiv",
+        "label": "@爱华斯",
+        "url": "https://www.pixiv.net/users/69346779",
+        "description": "Some of my old drawings"
+      },
+      {
+        "name": "Twitter",
+        "label": "@JohnCake_",
+        "url": "https://x.com/JohnCake_",
+        "description": "Personal space for posting random stuff."
+      }
+    ]
+  },
+  {
+    "title": "Useful",
+    "links": [
+      {
+        "name": "GreasyFork",
+        "label": "greasyfork.org",
+        "url": "https://greasyfork.org/en",
+        "description": "Best site to find userscripts. useful for anyone that has a browser on computer. Sleazy Fork (sleazyfork.org) for userscripts for adult sites."
+      },
+      {
+        "name": "SauceNAO",
+        "label": "saucenao.com",
+        "url": "https://saucenao.com/",
+        "description": "Best site to search the source of an image. very useful if the image is from Pixiv or any booru sites. If there's no results you can click the small buttons under the image (from google lens to yandex) to search it by other services."
+      },
+      {
+        "name": "Catbox",
+        "label": "catbox.moe",
+        "url": "https://catbox.moe/",
+        "description": "Good site for image and small-file hosting service."
+      }
+    ]
+  },
+  {
+    "title": "File sharing",
+    "links": [
+      {
+        "name": "Internet Archive",
+        "label": "archive.org",
+        "url": "https://archive.org/",
+        "description": "Probably one of the best sites on the internet, free download of music, movies, books, games... not comprehensive but still a lot."
+      },
+      {
+        "name": "RuTracker",
+        "label": "rutracker.org",
+        "url": "https://rutracker.org/forum/index.php",
+        "description": "Best general purpose torrent site, you can find music, movies, games and more good stuff here. What I like most about this site is: administrators will verify if the source of the file is reliable. if you see \"√ проверено\", you can download it without any worry about file's quality!"
+      },
+      {
+        "name": "Nyaa",
+        "label": "nyaa.si",
+        "url": "https://nyaa.si/",
+        "description": "The RuTracker of ACGN related stuff and more (I downloaded Araki's photography work Tokyo Lucky Hole here where I cannot find it anywhere else on the internet)."
+      },
+      {
+        "name": "Nicotine+",
+        "label": "nicotine-plus.org",
+        "url": "https://nicotine-plus.org/",
+        "description": "A Soulseek (slsknet.org) client, works better on Linux and has more features. If you cannot find an album here, you probably won't be able to find it anywhere else on the internet."
+      },
+      {
+        "name": "Z-library",
+        "label": "z-library.website",
+        "url": "https://z-library.website/",
+        "description": "One of the best site for reading and downloading books. note that its domain changes often and there's also lots of scam sites. verify the link before download files."
+      },
+      {
+        "name": "Anna’s Archive",
+        "label": "annas-archive.gl",
+        "url": "https://annas-archive.gl/",
+        "description": "One of the best site for downloading books. note that its domain also changes very often."
+      },
+      {
+        "name": "Doujinstyle",
+        "label": "doujinstyle.com",
+        "url": "https://doujinstyle.com/",
+        "description": "Good site for downloading doujin music."
+      }
+    ]
+  },
+  {
+    "title": "Information",
+    "links": [
+      {
+        "name": "PsychonautWiki",
+        "label": "psychonautwiki.org",
+        "url": "https://psychonautwiki.org/wiki/Main_Page",
+        "description": "Really fascinating site, you can find useful and interesting information about psychoactive substances, psychedelic experiences and psychological, spiritual, philosophical stuff."
+      },
+      {
+        "name": "THBWiki",
+        "label": "thbwiki.cc",
+        "url": "https://thbwiki.cc/%E9%A6%96%E9%A1%B5",
+        "description": "Very useful site for information related to Touhou Project (in Chinese)."
+      }
+    ]
+  },
+  {
+    "title": "Porn sites",
+    "links": [
+      {
+        "name": "Pixiv",
+        "label": "pixiv.net",
+        "url": "https://www.pixiv.net/",
+        "description": "Not just an porn site but a large community where you can find a huge amount of original artworks."
+      },
+      {
+        "name": "Iwara",
+        "label": "iwara.tv",
+        "url": "https://www.iwara.tv/",
+        "description": "Best site for original 3D videos. Like Pixiv it's mostly creator-driven."
+      },
+      {
+        "name": "ExHentai.org",
+        "label": "exhentai.org",
+        "url": "https://exhentai.org/",
+        "description": "Largest site to read and download doujinshi, manga, collection of artists' works, cosplayers' image sets... almost everything. both torrent and direct download available. Note that it requires an e-hentai account to access exhentai, you can find many guides online. e-hentai.org is also good."
+      },
+      {
+        "name": "Kemono",
+        "label": "kemono.cr",
+        "url": "https://kemono.cr/",
+        "description": "Best site for paywalled content. sadly it already dead for a few months and seems there's no alternatives for it."
+      },
+      {
+        "name": "Rule 34",
+        "label": "rule34.xxx",
+        "url": "https://rule34.xxx/",
+        "description": "Good booru site for images, gifs and videos. note that if you want the filtered result to sort by score, add the tag \"sort:score\". found this tip after a few years of using it."
+      },
+      {
+        "name": "Rule 34 Video",
+        "label": "rule34video.com",
+        "url": "https://rule34video.com/",
+        "description": "Good site for videos. note that there's a lot of edits and compilations, which is a bit annoying if you just want the original video."
+      },
+      {
+        "name": "F95zone",
+        "label": "f95zone.to",
+        "url": "https://f95zone.to/",
+        "description": "Good site to download nsfw games."
+      }
+    ]
+  },
+  {
+    "title": "Interesting People Online",
+    "links": [
+      {
+        "name": "Luke Smith",
+        "label": "lukesmith.xyz",
+        "url": "https://lukesmith.xyz/",
+        "description": "His projects and videos are AMAZING, inspired me a lot. check out his site, there's a lot of useful and inspiring stuff."
+      },
+      {
+        "name": "Amlux",
+        "label": "pantsuprophet.xyz",
+        "url": "https://pantsuprophet.xyz/",
+        "description": "He has really great taste on music and films."
+      }
+    ]
+  }
+]
