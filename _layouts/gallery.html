@@ -9,7 +9,7 @@ layout: default
 {% assign members = items | where: "group", item.group %}
 {% assign first = members | first %}
 {% assign pinned = members | where: "pinned", true %}
-{% if item.slug == first.slug and pinned != empty %}{% for member in members %}{% include gallery-item.html item=member %}{% endfor %}{% endif %}
+{% if item.slug == first.slug and pinned != empty %}{% for member in pinned %}{% include gallery-item.html item=member %}{% endfor %}{% for member in members %}{% unless member.pinned %}{% include gallery-item.html item=member %}{% endunless %}{% endfor %}{% endif %}
 {% elsif item.pinned %}{% include gallery-item.html item=item %}
 {% endif %}
 {% endfor %}
