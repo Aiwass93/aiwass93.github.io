@@ -88,7 +88,7 @@ All at once I knew I could kiss her throat or the wick of her mouth with perfect
 
 I am like one of those inflated pale spiders you see in old gardens. Sitting in the middle of a luminous web and giving little jerks to this or that strand. My web is spread all over the house as I listen from my chair where I sit like a wily wizard. Is Lo in her room?
 
-*...for the beautiful warm-colored prey.*
+...for the beautiful warm-colored prey.
 
 So my nymphet is not in the house at all! Gone!
 
@@ -168,7 +168,7 @@ I lost myself in the pungent but healthy heat which like summer haze hung about 
 
 As she strained to chuck the core of her abolished apple into the fender, her young weight, her shameless innocent shanks and round bottom, shifted in my tense, tortured, surreptitiously laboring lap; and all of a sudden a mysterious change came over my senses. I entered a plane of being where nothing mattered, save the infusion of joy brewed within my body.
 
-*...and the sun was on her lips,*
+...and the sun was on her lips,
 
 there seemed to be nothing to prevent my muscular thumb from reaching the hot hollow of her groin——
 
