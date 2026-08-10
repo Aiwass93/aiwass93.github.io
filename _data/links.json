@@ -12,7 +12,13 @@
         "name": "Bilibili",
         "label": "@天鹅司令",
         "url": "https://space.bilibili.com/2022743444",
-        "description": "My musical works of noise, generative music and more. this account also upload albums that I like."
+        "description": "My musical works of noise. this account also upload albums that I like."
+      },
+      {
+        "name": "Youtube",
+        "label": "@Master_of_hell",
+        "url": "https://www.youtube.com/@Master_of_hell",
+        "description": "Some noise music I made"
       },
       {
         "name": "Pixiv",

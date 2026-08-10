@@ -8,7 +8,7 @@ Hello, this is my personal blog website. I've used a lot of different names on t
 
 I'm an Asian guy currently living in Québec, my English is not good *et mon français est terrible.* Sorry for my poor grammar and wording, *je suis désolé*.
 
-I like music. I make noise music with VCV Rack and other instruments from Dec 2025. you can see them in my [Bilibili channel](https://space.bilibili.com/2022743444). I don't have a youtube channel yet because I'm too lazy.
+I like music. I make noise music with VCV Rack and other instruments from Dec 2025. you can see them in my [Bilibili channel](https://space.bilibili.com/2022743444) or [Youtube](https://www.youtube.com/@Master_of_hell).
 I haven't listened many albums yet, if you have anything you'd like to recommend, I would love to hear them.
 
 I've been using Artix Linux (Runit) for about one year now, with Luke Smith's LARBS. I'm not into "technology" or "privacy" or "minimalism" or such nerdy stuff, but it's really a good setup if you're not a gamer.
