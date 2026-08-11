@@ -33,16 +33,20 @@ Piracy
 
 Feel of boring
 
+All kinds of porn, no exceptions. Purest form of pleasure, better than any music, probably the best thing ever exists!
+
 \-\-\-
 
 Things I don't like:
 
-Metal music (some black metal are decent, but overall metal music is just boring to me.)
+Metal music, EDM, Hip-Hop, Jazz, Western classical music etc. some of their subgenres are decent (except EDM and Western classical music), but overall they're just boring to me.
 
-All video games.
+Video games
+
+Paying
 
 Some kind of films: like Possession (1981), Funeral Parade of Roses (1969).
 
-Gore media. Not that untolerable, but of course, seeing them will ruin my good mood without any benefits.
+Gore media. Not that untolerable, actually I enjoy guro porn, but of course I'm not the kind of pervert who enjoys watching beheading videos.
 
 [back](/)
