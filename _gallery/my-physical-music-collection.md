@@ -2,7 +2,7 @@
 title: "My physical music collection"
 slug: "my-physical-music-collection"
 date: "2026-07-12"
-lang: "en"
+lang: "ja"
 image: "/assets/images/my-physical-music-collection.jpg"
 alt: ""
 tags: ["photographs"]

@@ -14,6 +14,7 @@ Before and After Science by Brian Eno, ENO 4, 2nd hand. I bought it at a local r
 
 CDs:
 To be Kind by Swans, YG46, new, bought it at Swans' live concert.
-Trip Deeper by Akatsuki Records & ALISON AIRLINES, ALCD-0001, 2nd hand. bought it online at Suruga-ya, cost me over 100 CAD.
+Trip Deeper by Akatsuki Records & ALISON AIRLINES, ALCD-0001, 2nd hand. bought it online at Suruga-ya, cost me over 100 CAD but I love it, so many beautiful memories...
 While You Were Out by Kazumoto Endo, 2024 Skeleton Dust Reissue, new. bought it at Killer Bug's live show. Mr Endo signed it.
-Missed Coaching Opportunities by Hypertrophy, new. I was so high and did push ups during this guy's set at Initial Shock IV, and dude gave me his CD for free!
+Missed Coaching Opportunities by Hypertrophy (Anthony Saunders), new. I was so high and did push ups during this guy's set at Initial Shock IV, and dude gave me his CD for free!
+閃乱カグラ オリジナルサウンドトラック -真影/紅蓮/真紅-, FF1428~31, 2nd hand. my friend gave it to me after I gave him a handmade CDr edition of IM@S Master Artist 04.

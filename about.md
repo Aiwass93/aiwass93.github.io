@@ -31,7 +31,7 @@ Films that has a unique atmosphere and/or very funny: Angst (1983), C'est arriv√
 
 Piracy
 
-Feel of boring
+Feel of boredom, anxiety and fear
 
 All kinds of porn, no exceptions. Purest form of pleasure, better than any music, probably the best thing ever exists!
 
@@ -39,14 +39,14 @@ All kinds of porn, no exceptions. Purest form of pleasure, better than any music
 
 Things I don't like:
 
-Metal music, EDM, Hip-Hop, Jazz, Western classical music etc. some of their subgenres are decent (except EDM and Western classical music), but overall they're just boring to me.
+Metal music, EDM, Hip-Hop, Jazz, Western classical music etc. some of their subgenres are decent (except EDM and Hip hop), but overall they're just boring to me.
 
-Video games
+Video games. It only take you away from real pleasure, take it from a hedonist.
 
-Paying
+Paying for anything. I'm not really broke but I hate paying.
 
-Some kind of films: like Possession (1981), Funeral Parade of Roses (1969).
+Some kinds of films: like Possession (1981), Funeral Parade of Roses (1969). their directors might think they're smarter than the audience and I refuse to accept this kind of humiliation.
 
-Gore media. Not that untolerable, actually I enjoy guro porn, but of course I'm not the kind of pervert who enjoys watching beheading videos.
+Gore media. Not that untolerable, actually I enjoy guro porn and some snuff films, but of course I'm not the kind of pervert who enjoys watching beheading videos.
 
 [back](/)
