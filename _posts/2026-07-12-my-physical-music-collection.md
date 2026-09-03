@@ -11,6 +11,7 @@ permalink: "/articles/2026-07-12-my-physical-music-collection/"
 Vinyls:
 White Light / White Heat by The Velvet Underground, Polydor B0019338-01, new. I bought it at a local record store. first physical album I bought.
 Before and After Science by Brian Eno, ENO 4, 2nd hand. I bought it at a local record market I remember it's called \"1984\".
+Shitsuke by Killer Bug, SDR046, new. Bought it at local record store "Cheap Thrills". During purchasing I learned that the owner was also at Endo's set a few months ago (which didn't surpurised me).
 
 CDs:
 To be Kind by Swans, YG46, new, bought it at Swans' live concert.
@@ -18,3 +19,4 @@ Trip Deeper by Akatsuki Records & ALISON AIRLINES, ALCD-0001, 2nd hand. bought i
 While You Were Out by Kazumoto Endo, 2024 Skeleton Dust Reissue, new. bought it at Killer Bug's live show. Mr Endo signed it.
 Missed Coaching Opportunities by Hypertrophy (Anthony Saunders), new. I was so high and did push ups during this guy's set at Initial Shock IV, and dude gave me his CD for free!
 閃乱カグラ オリジナルサウンドトラック -真影/紅蓮/真紅-, FF1428~31, 2nd hand. my friend gave it to me after I gave him a handmade CDr edition of IM@S Master Artist 04.
+Frequency L.S.D. by Masonna, ALIEN007, new. Also bought it at Cheap Thrills. The owner is nice, recommended this to me after I asked where's the noise section.

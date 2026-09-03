@@ -33,13 +33,11 @@ Piracy
 
 Feel of boredom, anxiety and fear
 
-All kinds of porn, no exceptions. Purest form of pleasure, better than any music, probably the best thing ever exists!
-
 \-\-\-
 
 Things I don't like:
 
-Metal music, EDM, Hip-Hop, Jazz, Western classical music etc. some of their subgenres are decent (except EDM and Hip hop), but overall they're just boring to me.
+Metal music, EDM, Hip-Hop, Jazz, Western classical music etc. some of their subgenres are decent, but overall they're just boring to me.
 
 Video games. It only take you away from real pleasure, take it from a hedonist.
 

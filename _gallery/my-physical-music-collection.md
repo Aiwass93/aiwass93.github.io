@@ -7,6 +7,6 @@ image: "/assets/images/my-physical-music-collection.jpg"
 alt: ""
 tags: ["photographs"]
 width: 2000
-height: 1500
+height: 1245
 link: "/articles/2026-07-12-my-physical-music-collection/"
 ---
