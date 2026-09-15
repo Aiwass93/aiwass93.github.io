@@ -9,5 +9,3 @@ title: website
 {% for post in site.posts limit:4 %}<a href="{{ post.url }}">{{ post.title | escape }}</a><br>{% endfor %}
 ......<br>
 <a href="/articles/">click here to see all articles</a>
-<h2>Projects</h2>
-{% for project in site.data.projects %}<a href="{{ project.url }}">{{ project.title | escape }}</a><br>{% endfor %}

@@ -1,5 +1,5 @@
 collections: [gallery]
-exclude: [README.md]
+exclude: [README.md, .private]
 markdown: kramdown
 kramdown:
   hard_wrap: true
