@@ -51,7 +51,7 @@ Gore media. Not that untolerable, actually I enjoy guro porn and some (fictional
 
 The origin of my names
 
-John Cake: I found it's very funny that John Cage and John Cage, the two great musicians, names are both "John Ca_e", so I made my own one.
+John Cake: I found it's very funny that John Cale and John Cage, the two great musicians, names are both "John Ca_e", so I made my own one.
 
 John: I like the song "Cruel Brother" by TwinSisterMoon very much:
 
