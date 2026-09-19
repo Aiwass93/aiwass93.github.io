@@ -4,5 +4,13 @@
 <meta name=viewport content="width=device-width">
 <title>{{ page.title | escape }}</title>
 <link rel=icon href="/assets/images/icon.png">
-<style>img{max-width:50%;max-height:75vh;width:auto;height:auto}summary{cursor:pointer}</style>
+<style>
+img{max-width:50%;max-height:75vh;width:auto;height:auto}
+summary{display:block;width:fit-content;color:LinkText;text-decoration:underline;cursor:pointer}
+summary::-webkit-details-marker{display:none}
+#quick-intro{display:flex;flex-wrap:wrap;column-gap:.25em}
+#quick-intro>details{display:contents}
+#quick-intro>details::details-content{order:1;flex-basis:100%;min-width:0}
+#quick-intro>details:not([open])::details-content{display:none}
+</style>
 {{ content }}

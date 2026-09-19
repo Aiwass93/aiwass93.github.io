@@ -1,4 +1,4 @@
-collections: [gallery]
+collections: [gallery, fun_facts]
 exclude: [README.md, .private]
 markdown: kramdown
 kramdown:

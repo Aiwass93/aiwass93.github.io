@@ -17,7 +17,7 @@ I’m not interested in politics or any political party or ideology. I believe t
 
 \-\-\-
 
-Things I like:
+### Things I like:
 
 Noisy music, improvised music, music with good texture or atmosphere, music that make me feel I'm a primitive people from ancient times (Natural Sonw Buildings perfectly matches all of them that's why I love them so much) (you can see my music preferences at [my RYM](https://rateyourmusic.com/~music_enjoyer1990)).
 
@@ -35,7 +35,7 @@ Feel of boredom, anxiety or fear
 
 \-\-\-
 
-Things I don't like:
+### Things I don't like:
 
 Metal music, EDM, Hip-Hop, Jazz, Western classical music etc. some of their subgenres are decent, but overall they're just boring to me.
 
@@ -49,9 +49,7 @@ Gore media. Not that untolerable, actually I enjoy guro porn and some (fictional
 
 \-\-\-
 
-The origin of my names
-
-John Cake: I found it's very funny that John Cale and John Cage, the two great musicians, names are both "John Ca_e", so I made my own one.
+### The origin of my names
 
 John: I like the song "Cruel Brother" by TwinSisterMoon very much:
 
@@ -71,6 +69,8 @@ John: I like the song "Cruel Brother" by TwinSisterMoon very much:
 *Gallows tree for to hang him on*
 
 Piercing his sister to the heart out of her disrespect, I really like John.
+
+John Cake: I found it's very funny that John Cale and John Cage, the two great musicians, names are both "John Ca_e", so I made my own one.
 
 Master of hell: "the entity of terror that appeared in my dream". see the gallery item for how it looks like approximately.
 

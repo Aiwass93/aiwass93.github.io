@@ -7,6 +7,6 @@ lang: en
 {% for section in site.data.links %}<section>
 <h2>{{ section.title | escape }}</h2>
 {% for link in section.links %}<p>{{ link.name | escape }}: <a href="{{ link.url | escape }}">{{ link.label | escape }}</a>{% if link.description %}<br>
-{{ link.description | escape }}{% endif %}</p>{% endfor %}
+{{ link.description }}{% endif %}</p>{% endfor %}
 </section>{% endfor %}
 <p><a href="/">back</a></p>

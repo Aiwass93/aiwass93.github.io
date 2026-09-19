@@ -5,6 +5,41 @@ title: website
 <h1>website</h1>
 <p>This is my personal website, currently under construction.</p>
 <p><a href="/about.html">about</a> / <a href="/links.html">links</a> / <a href="/gallery/">gallery</a></p>
+<section id="get-to-know-me" aria-labelledby="get-to-know-me-title">
+<h2 id="get-to-know-me-title">Get to know me quickly!</h2>
+<div id="quick-intro">
+<details id="quick-music" name="quick-intro">
+<summary>Listen to my music!</summary>
+<audio controls preload="none" src="/assets/audio/eo-track-v6.7.mp3" style="max-width:100%">
+<a href="/assets/audio/eo-track-v6.7.mp3">Listen to my music</a>
+</audio>
+</details>
+<span aria-hidden="true">/</span>
+<details id="quick-artwork" name="quick-intro">
+<summary>See my artwork!</summary>
+{% include image.html src="/assets/images/tall-koishi-kkhta.jpg" %}
+</details>
+{% if site.fun_facts.size > 0 %}<span aria-hidden="true">/</span>
+<details id="quick-facts" name="quick-intro">
+<summary>Random fun facts about me!</summary>
+{% for fact in site.fun_facts %}<div{% unless forloop.first %} hidden{% endunless %}>{{ fact.content | markdownify }}</div>{% endfor %}
+</details>{% endif %}
+</div>
+</section>
+<script>
+{
+  const panel = document.getElementById('quick-facts');
+  const facts = document.querySelectorAll('#quick-facts > div');
+  const select = () => {
+    const selected = Math.floor(Math.random() * facts.length);
+    facts.forEach((fact, index) => { fact.hidden = index !== selected; });
+  };
+  select();
+  panel?.addEventListener('toggle', () => {
+    if (panel.open) select();
+  });
+}
+</script>
 <h2>Articles</h2>
 {% for post in site.posts limit:4 %}<a href="{{ post.url }}">{{ post.title | escape }}</a><br>{% endfor %}
 ......<br>

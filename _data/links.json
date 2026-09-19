@@ -64,7 +64,7 @@
         "name": "Internet Archive",
         "label": "archive.org",
         "url": "https://archive.org/",
-        "description": "Probably one of the best sites on the internet, free download of music, movies, books, games... not comprehensive but still a lot."
+        "description": "Probably one of the best sites on the internet, free download of music, movies, books, games... not comprehensive but still a lot. (use <a href=\"https://github.com/elementdavv/internet_archive_downloader\">THIS</a> to download lendable books!!)"
       },
       {
         "name": "RuTracker",
