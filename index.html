@@ -36,7 +36,7 @@ title: website
   };
   select();
   panel?.addEventListener('toggle', () => {
-    if (panel.open) select();
+    if (!panel.open) select();
   });
 }
 </script>

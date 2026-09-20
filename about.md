@@ -51,7 +51,7 @@ Gore media. Not that untolerable, actually I enjoy guro porn and some (fictional
 
 ### The origin of my names
 
-John: I like the song "Cruel Brother" by TwinSisterMoon very much:
+**John**: I like the song "Cruel Brother" by TwinSisterMoon very much:
 
 *And her father mounted her on her horse*
 *Her brother lead her to the course*
@@ -70,10 +70,10 @@ John: I like the song "Cruel Brother" by TwinSisterMoon very much:
 
 Piercing his sister to the heart out of her disrespect, I really like John.
 
-John Cake: I found it's very funny that John Cale and John Cage, the two great musicians, names are both "John Ca_e", so I made my own one.
+**John Cake**: I found it's very funny that John Cale and John Cage, the two great musicians, names are both "John Ca_e", so I made my own one.
 
-Master of hell: "the entity of terror that appeared in my dream". see the gallery item for how it looks like approximately.
+**Master of hell**: "the entity of terror that appeared in my dream". see the gallery item for how it looks like approximately.
 
-Aiwass 93: I was really into those magick/occultism/orders few years ago, read a lot of books and translated a few.
+**Aiwass 93**: I was really into those magick/occultism/orders few years ago, read a lot of books and translated a few.
 
 [back](/)
