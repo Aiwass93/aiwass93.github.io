@@ -8,7 +8,7 @@ Hello, this is my personal blog website. I've used a lot of different names on t
 
 I'm an Asian guy currently living in Québec, my English is not good *et mon français est terrible.* Sorry for my poor grammar and wording, *je suis désolé*.
 
-I like music. I make noise music with VCV Rack and other instruments from Dec 2025. you can see them in my [Bilibili channel](https://space.bilibili.com/2022743444) or [Youtube](https://www.youtube.com/@Master_of_hell).
+I like music. I make noise music with VCV Rack and other instruments from Dec 2025. you can see them in my [Bilibili channel](https://space.bilibili.com/2022743444) or [Youtube](https://www.youtube.com/@Golden_Age_of_Rape).
 I haven't listened many albums yet, if you have anything you'd like to recommend, I would love to hear them.
 
 I've been using Artix Linux (Runit) for about a year now, with Luke Smith's LARBS. I'm not into "technology" or "privacy" or "minimalism" or such nerdy stuff, but it's really a good setup if you're not a gamer.
@@ -72,7 +72,9 @@ Piercing his sister to the heart out of her disrespect, I really like John.
 
 **John Cake**: I found it's very funny that John Cale and John Cage, the two great musicians, names are both "John Ca_e", so I made my own one.
 
-**Master of hell**: "the entity of terror that appeared in my dream". see the gallery item for how it looks like approximately.
+**Master of hell**: "the entity of terror that appeared in my dream". it was black-and-white, looked minimal, like an artwork, its body was unnaturally long and armless. note that the gallery item was not exactly what it looked like in the dream.
+
+**The Golden Age of Rape**:
 
 **Aiwass 93**: I was really into those magick/occultism/orders few years ago, read a lot of books and translated a few.
 
