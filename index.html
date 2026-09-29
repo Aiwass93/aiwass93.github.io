@@ -10,8 +10,9 @@ title: website
 <div id="quick-intro">
 <details id="quick-music" name="quick-intro">
 <summary>Listen to my music!</summary>
-<audio controls preload="none" src="/assets/audio/eo-track-v6.7.mp3" style="max-width:100%">
-<a href="/assets/audio/eo-track-v6.7.mp3">Listen to my music</a>
+{% assign music_url = "https://files.catbox.moe/505gt1.mp3" %}
+<audio controls preload="none" src="{{ music_url }}" style="max-width:100%">
+<a href="{{ music_url }}">Listen to my music</a>
 </audio>
 </details>
 <span aria-hidden="true">/</span>

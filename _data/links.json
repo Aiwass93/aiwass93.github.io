@@ -6,31 +6,37 @@
         "name": "RateYourMusic",
         "label": "~music_enjoyer1990",
         "url": "https://rateyourmusic.com/~music_enjoyer1990",
-        "description": "All music I've listened and rated."
+        "description": "All music I've listened and rated"
       },
       {
         "name": "Bilibili",
         "label": "@天鹅司令",
         "url": "https://space.bilibili.com/2022743444",
-        "description": "My musical works of noise. this account also upload albums that I like."
+        "description": "Most of my noise works are here"
       },
       {
         "name": "Youtube",
-        "label": "@The Golden Age of Rape",
+        "label": "The Golden Age of Rape",
         "url": "https://www.youtube.com/@Golden_Age_of_Rape",
-        "description": "Some noise music I made"
+        "description": "Some of my noise works"
       },
       {
         "name": "Pixiv",
         "label": "@爱华斯",
         "url": "https://www.pixiv.net/users/69346779",
-        "description": "Some of my old drawings"
+        "description": "Some of my old digital drawings"
       },
       {
         "name": "Twitter",
         "label": "@JohnCake_",
         "url": "https://x.com/JohnCake_",
-        "description": "Personal space for posting random stuff."
+        "description": "Personal stuff"
+      },
+      {
+        "name": "Bandcamp",
+        "label": "The Golden Age of Rape",
+        "url": "https://golden-age-of-rape.bandcamp.com/",
+        "description": "WIP empty bandcamp page for my solo noise project \"The Golden Age of Rape\""
       }
     ]
   },
@@ -95,12 +101,6 @@
         "label": "annas-archive.gl",
         "url": "https://annas-archive.gl/",
         "description": "One of the best site for downloading books. note that its domain also changes very often."
-      },
-      {
-        "name": "Doujinstyle",
-        "label": "doujinstyle.com",
-        "url": "https://doujinstyle.com/",
-        "description": "Good site for downloading doujin music."
       }
     ]
   },
@@ -122,59 +122,6 @@
     ]
   },
   {
-    "title": "Porn sites",
-    "links": [
-      {
-        "name": "Pixiv",
-        "label": "pixiv.net",
-        "url": "https://www.pixiv.net/",
-        "description": "Not just an porn site but a large community where you can find a huge amount of original artworks."
-      },
-      {
-        "name": "Iwara",
-        "label": "iwara.tv",
-        "url": "https://www.iwara.tv/",
-        "description": "Best site for original 3D videos. Like Pixiv it's mostly creator-driven."
-      },
-      {
-        "name": "ExHentai.org",
-        "label": "exhentai.org",
-        "url": "https://exhentai.org/",
-        "description": "Largest site to read and download doujinshi, manga, collection of artists' works, cosplayers' image sets... almost everything. both torrent and direct download available. Note that it requires an e-hentai account to access exhentai, you can find many guides online. e-hentai.org is also good."
-      },
-      {
-        "name": "Kemono",
-        "label": "kemono.cr",
-        "url": "https://kemono.cr/",
-        "description": "Best site for paywalled content. sadly it already dead for a few months and seems there's no alternatives for it."
-      },
-      {
-        "name": "Pawchive",
-        "label": "pawchive.pw",
-        "url": "https://pawchive.pw/",
-        "description": "GOOD NEWS FOR GOONERS!!! Just found this site, it's based on Kemono and basically they're doing the same thing (but this site is alive!). note that currently there's only Patreon and Pixiv Fanbox supported but there's a lot of new content that Kemono don't have."
-      },
-      {
-        "name": "Rule 34",
-        "label": "rule34.xxx",
-        "url": "https://rule34.xxx/",
-        "description": "Good booru site for images, gifs and videos. note that if you want the filtered result to sort by score, add the tag \"sort:score\". found this tip after a few years of using it."
-      },
-      {
-        "name": "Rule 34 Video",
-        "label": "rule34video.com",
-        "url": "https://rule34video.com/",
-        "description": "Good site for videos. note that there's a lot of edits and compilations, which is a bit annoying if you just want the original video."
-      },
-      {
-        "name": "F95zone",
-        "label": "f95zone.to",
-        "url": "https://f95zone.to/",
-        "description": "Good site to download nsfw games."
-      }
-    ]
-  },
-  {
     "title": "Interesting People Online",
     "links": [
       {
@@ -187,7 +134,7 @@
         "name": "Amlux",
         "label": "pantsuprophet.xyz",
         "url": "https://pantsuprophet.xyz/",
-        "description": "He has really great taste on music and films."
+        "description": "Interesting guy, has a really great taste on music and films."
       }
     ]
   }

@@ -1,3 +1,3 @@
 ---
 ---
-I make noise music with VCV Rack from Dec 17, 2025
+I started making noise music from Dec 17, 2025
