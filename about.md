@@ -23,7 +23,7 @@ I’m not interested in politics or any political party or ideology. I see polit
 Noise music/improvised music. any music that make me feel I'm a primitive people from ancient times (you can see my music preferences at [my RYM](https://rateyourmusic.com/~music_enjoyer1990)).
 I listen to noise-related music (harsh noise, hnw, power electronics), industrial related music (industrial/neofolk) and some folky/ambient music (NSB, BoH) most of the times. I'm also interested in electroacoustic, musique concrète, field recordings, tape music but haven't listened much yet.
 
-*Lolita*, *Speak, Memory*, *Pnin*, and some other books by Vladimir Nabokov. I don't usually like overly ornate writing styles but he's an exception. he has a good sense of humor that sometimes i think it's written for me.
+*Lolita* and some other books by Vladimir Nabokov. I don't usually like overly ornate writing styles but he's an exception. he has a good sense of humor that sometimes i think it's written for me.
 In elementary school I was interested in politic books like *1984* by Orwell, and social science books like *Sapiens: A Brief History of Humankind* and *Homo Deus: A Brief History of Tomorrow* by Yuval Harari. I know I couldn't fully understand everything in these books at the time but I'm sure they shaped the way I think and understand the world to some extent.
 
 Photography of people, like [Immediate Family](https://archive.org/details/immediate-family-sally-mann) by Sally Mann, Radiant Identities Photographs (Archive.org took it down recently, fuck it, if you want its high quality file dm me) by Jock Sturges, [La Danse](https://archive.org/details/ladansebydavidha0000unse) [(and some other works)](https://archive.org/details/davidhamiltonspr0000hami) by David Hamilton.
@@ -38,15 +38,11 @@ Feel of boredom, anxiety or fear
 
 ### Things I don't like:
 
-Metal music, EDM, Jazz, Western classical music etc. some of their subgenres are decent, but overall they're just boring to me.
-
 Video games. It only take you away from real pleasure, take it from a hedonist.
 
-Paying for anything. I'm not really broke but I hate paying.
+Paying
 
-Some kinds of films: like Possession (1981), Funeral Parade of Roses (1969). their directors might think they're smarter than the audience and I refuse to accept this kind of humiliation!
-
-Gore media. Not that untolerable, actually I enjoy guro and some (fictional) snuff films, but of course I'm not the kind of pervert who enjoys watching beheading videos.
+Some kinds of films: like Possession (1981), Funeral Parade of Roses (1969). their directors might think they're smarter than the audience and I refuse to accept this kind of humiliation.
 
 \-\-\-
 
@@ -71,11 +67,11 @@ Gore media. Not that untolerable, actually I enjoy guro and some (fictional) snu
 
 Piercing his sister to the heart out of her disrespect, John is one of us!
 
-**John Cake**: I found it's very funny that John Cale and John Cage, the two great musicians, names are both "John Ca_e", so I made my own one.
+**John Cake**: I found it's very funny that John Cale and John Cage, the two great musicians, names are both "John Ca_e", so I made my own one (earlier than the name John).
 
 **Master of hell**: "the entity of terror that appeared in my dream". it was black-and-white, looked minimal, like an artwork, its body was unnaturally long and armless. note that the gallery item was not exactly what it looked like in the dream.
 
-**The Golden Age of Rape**: Inspired by the album S L A V E S by Sutcliffe Jügend, Disc 3, Theatre of Innocence: The Golden Age Of Innocence (Part 1-9), and the song "Falling Back In Fields Of Rape", Current 93's Industrial version.
+**The Golden Age of Rape**: [WIP]
 
 **Aiwass 93**: I was really into those magick/occultism/orders few years ago, read a lot of books and translated a few.
 
