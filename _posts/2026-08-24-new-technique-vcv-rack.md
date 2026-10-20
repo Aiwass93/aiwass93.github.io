@@ -1,10 +1,6 @@
 ---
-layout: "article"
 title: "New technique of playing cut-up harsh noise on VCV Rack"
-heading: "New technique of playing cut-up harsh noise on VCV Rack"
-date: "2026-08-24"
 lang: "en"
-permalink: "/articles/2026-08-24-new-technique-vcv-rack/"
 ---
 Recently I found an interesting technique for making harsh noise (cut-up noise) in VCV Rack.
 

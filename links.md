@@ -9,4 +9,3 @@ lang: en
 {% for link in section.links %}<p>{{ link.name | escape }}: <a href="{{ link.url | escape }}">{{ link.label | escape }}</a>{% if link.description %}<br>
 {{ link.description }}{% endif %}</p>{% endfor %}
 </section>{% endfor %}
-<p><a href="/">back</a></p>

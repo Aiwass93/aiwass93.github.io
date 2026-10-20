@@ -1,10 +1,6 @@
 ---
-layout: "article"
 title: "My physical music collection"
-heading: "My physical music collection"
-date: "2026-07-12"
 lang: "en"
-permalink: "/articles/2026-07-12-my-physical-music-collection/"
 ---
 {% include image.html src="/assets/images/my-physical-music-collection.jpg" %}
 

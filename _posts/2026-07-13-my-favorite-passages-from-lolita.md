@@ -1,10 +1,6 @@
 ---
-layout: "article"
 title: "My favorite passages from Lolita"
-heading: "My favorite passages from Lolita"
-date: "2026-07-13"
 lang: "en"
-permalink: "/articles/2026-07-13-my-favorite-passages-from-lolita/"
 ---
 **Lolita, light of my life, fire of my loins.**
 

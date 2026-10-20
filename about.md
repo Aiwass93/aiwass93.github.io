@@ -74,5 +74,3 @@ Piercing his sister to the heart out of her disrespect, John is one of us!
 **The Golden Age of Rape**: [WIP]
 
 **Aiwass 93**: I was really into those magick/occultism/orders few years ago, read a lot of books and translated a few.
-
-[back](/)

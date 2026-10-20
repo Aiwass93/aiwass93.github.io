@@ -14,3 +14,4 @@ summary::-webkit-details-marker{display:none}
 #quick-intro>details:not([open])::details-content{display:none}
 </style>
 {{ content }}
+{% unless page.url == "/" %}<p><a href="/">back</a></p>{% endunless %}

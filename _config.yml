@@ -1,5 +1,7 @@
 collections: [gallery, fun_facts]
-exclude: [README.md, .private]
-markdown: kramdown
+exclude: [README.md, Gemfile]
 kramdown:
   hard_wrap: true
+defaults:
+  - scope: {type: posts}
+    values: {layout: article, permalink: "/articles/:year-:month-:day-:title/"}

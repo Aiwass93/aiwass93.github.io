@@ -1,10 +1,6 @@
 ---
-layout: "article"
 title: "An interesting dream"
-heading: "An interesting dream"
-date: "2026-10-14"
 lang: "en"
-permalink: "/articles/2026-10-14-an-interesting-dream/"
 ---
 I dreamed that I had to read aloud a poem from an ancient book. I’d printed it out on A4 paper, three pages in all.
 

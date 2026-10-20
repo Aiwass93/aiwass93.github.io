@@ -1,10 +1,6 @@
 ---
-layout: "article"
 title: "关于嗑药的诗"
-heading: "关于嗑药的诗"
-date: "2026-07-21"
 lang: "zh"
-permalink: "/articles/2026-07-21-hippie-poem/"
 ---
 04.01.2025
 

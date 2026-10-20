@@ -1,1 +1,14 @@
-[{"slug":"artworks","title":"Artworks"},{"slug":"photographs","title":"Photographs"},{"slug":"misc","title":"Misc"}]
+[
+  {
+    "slug": "artworks",
+    "title": "Artworks"
+  },
+  {
+    "slug": "photographs",
+    "title": "Photographs"
+  },
+  {
+    "slug": "misc",
+    "title": "Misc"
+  }
+]
