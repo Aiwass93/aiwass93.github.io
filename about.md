@@ -5,7 +5,7 @@ title: About
 # About
 
 Hi, this is my personal blog website. I've used a lot of different names on the internet and change them often so just call me whatever you want :)
-Or you can just call me John.
+The name I'm currently using is John.
 
 I'm an Asian guy currently living in Québec, my English is not good *et mon français est terrible, je suis désolé*.
 

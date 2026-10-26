@@ -3,7 +3,6 @@ layout: default
 ---
 <h1>{{ page.title | escape }}</h1>
 <nav><a href="/gallery/">all</a>{% for gallery in site.data.galleries %} / <a href="/gallery/{{ gallery.slug }}/">{{ gallery.title | escape }}</a>{% endfor %}</nav>
-{% comment %}A lone item is a one-member group. Groups with a pinned member come first.{% endcomment %}
 {% assign items = site.gallery | sort: "slug" %}
 {% for pass in (1..2) %}{% for item in items %}
 {% if item.group %}{% assign members = items | where: "group", item.group %}{% else %}{% assign members = items | where: "slug", item.slug %}{% endif %}
