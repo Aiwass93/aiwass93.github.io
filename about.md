@@ -51,7 +51,7 @@ Some kinds of films: like Possession (1981), Funeral Parade of Roses (1969). the
 **John**: It was from the song "Cruel Brother" by TwinSisterMoon:
 
 *And her father mounted her on her horse*
-*Her brother lead her to the course*
+*Her brother led her to the course*
 *And he's taken a blade both long and sharp*
 *He's pierced the bonnie bride to the heart*
 
@@ -71,6 +71,7 @@ Piercing his sister to the heart out of her disrespect, John is one of us!
 
 **Master of hell**: "the entity of terror that appeared in my dream". it was black-and-white, looked minimal, like an artwork, its body was unnaturally long and armless. note that the gallery item was not exactly what it looked like in the dream.
 
-**The Golden Age of Rape**: [WIP]
+**The Golden Age of Rape**:
+"The Golden Age", [WIP]
 
 **Aiwass 93**: I was really into those magick/occultism/orders few years ago, read a lot of books and translated a few.
