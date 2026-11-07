@@ -48,7 +48,7 @@ Some kinds of films: like Possession (1981), Funeral Parade of Roses (1969). the
 
 ### The origin of my names
 
-**John**: It was from the song "Cruel Brother" by TwinSisterMoon:
+**John**: It was from the folk song "Cruel Brother" by TwinSisterMoon (Mehdi):
 
 *And her father mounted her on her horse*
 *Her brother led her to the course*
