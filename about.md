@@ -26,7 +26,7 @@ I listen to noise-related music (harsh noise, hnw, power electronics), industria
 *Lolita* and some other books by Vladimir Nabokov. I don't usually like overly ornate writing styles but he's an exception. he has a good sense of humor that sometimes i think it's written for me.
 In elementary school I was interested in politic books like *1984* by Orwell, and social science books like *Sapiens: A Brief History of Humankind* and *Homo Deus: A Brief History of Tomorrow* by Yuval Harari. I know I couldn't fully understand everything in these books at the time but I'm sure they shaped the way I think and understand the world to some extent.
 
-Photography of people, like [Immediate Family](https://archive.org/details/immediate-family-sally-mann) by Sally Mann, Radiant Identities Photographs (Archive.org took it down recently, fuck it, if you want its high quality file dm me) by Jock Sturges, [La Danse](https://archive.org/details/ladansebydavidha0000unse) [(and some other works)](https://archive.org/details/davidhamiltonspr0000hami) by David Hamilton.
+Photography of people, like works by Sally Mann, Robert Mapplethorpe, Jock Sturges, David Hamilton.
 
 Films that has a unique atmosphere and/or very funny: Angst (1983), C'est arrivé près de chez vous (1992), Pink Flamingos (1972).
 

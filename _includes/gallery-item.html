@@ -1,8 +1,11 @@
-{% if page.tag == nil or include.item.tags contains page.tag %}{% assign description = include.item.alt | default: "" | strip %}
+{%- if page.tag == nil or include.item.tags contains page.tag -%}
+{%- assign description = include.item.alt | default: "" | strip %}
 <h2>{% if include.item.link %}<a href="{{ include.item.link | escape }}">{{ include.item.title | escape }}</a>{% else %}{{ include.item.title | escape }}{% endif %}</h2>
 <p><small>{{ include.item.date | date: "%Y-%m-%d" }}</small></p>
 <figure>
 {% include image.html src=include.item.image %}
-{% if description != "" %}<figcaption>{{ description | escape }}</figcaption>{% endif %}
+{%- if description != "" %}
+<figcaption>{{ description | escape }}</figcaption>
+{%- endif %}
 </figure>
-{% endif %}
+{%- endif -%}

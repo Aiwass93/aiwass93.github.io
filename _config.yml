@@ -1,3 +1,4 @@
+url: "https://aiwass93.github.io"
 collections: [gallery, fun_facts]
 exclude: [README.md, Gemfile]
 kramdown:

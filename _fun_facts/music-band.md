@@ -6,3 +6,4 @@ I also like them:
 Death in June, Current 93, Coil, Boyd Rice/NON, Whitehouse, Sutcliffe Jügend
 Keiji Haino, Kazumoto Endo/Killer Bug
 Swans, Bull of Heaven
+Darksmith, Aaron Dilloway
