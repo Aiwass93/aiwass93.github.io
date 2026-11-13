@@ -7,8 +7,6 @@ title: About
 Hi, this is my personal blog website. I've used a lot of different names on the internet and change them often so just call me whatever you want :)
 The name I'm currently using is John.
 
-I'm an Asian guy currently living in Québec, my English is not good *et mon français est terrible, je suis désolé*.
-
 I started making noise music from Dec 2025. you can check them out in my [Bilibili channel](https://space.bilibili.com/2022743444) or [Youtube](https://www.youtube.com/@Golden_Age_of_Rape).
 I mainly do noise music. Recently I’ve also started making field recordings. I also cover some folk songs I like (sometimes) (I sing bad, most of my voice was processed).
 
