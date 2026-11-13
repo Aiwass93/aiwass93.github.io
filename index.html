@@ -1,15 +1,15 @@
 ---
 layout: default
-title: John's site
+title: John the foreign writer
 ---
-<h1>John's site</h1>
+<h1>少女</h1>
 <p>Hi this is my personal website</p>
 <p><a href="/about.html">about</a> / <a href="/links.html">links</a> / <a href="/gallery/">gallery</a> / <a href="/feed.xml">feed</a></p>
 <section id="get-to-know-me" aria-labelledby="get-to-know-me-title">
-<h2 id="get-to-know-me-title">Get to know me quickly!</h2>
+<h2 id="get-to-know-me-title">Get to know me quickly</h2>
 <div id="quick-intro">
 <details id="quick-music" name="quick-intro">
-<summary>Listen to my music!</summary>
+<summary>Listen to my music</summary>
 {% assign music_url = "https://file.garden/avUBVV4dX3xkVEa6/moan.mp3" %}
 <audio controls preload="none" src="{{ music_url }}" style="max-width:100%">
 <a href="{{ music_url }}">Listen to my music</a>
@@ -17,12 +17,12 @@ title: John's site
 </details>
 <span aria-hidden="true">/</span>
 <details id="quick-artwork" name="quick-intro">
-<summary>See my artwork!</summary>
+<summary>see my artwork</summary>
 {% include image.html src="/assets/images/tall-koishi-kkhta.jpg" %}
 </details>
 {% if site.fun_facts.size > 0 %}<span aria-hidden="true">/</span>
 <details id="quick-facts" name="quick-intro">
-<summary>Random fun facts about me!</summary>
+<summary>random fun facts</summary>
 {% for fact in site.fun_facts %}<div{% unless forloop.first %} hidden{% endunless %}>{{ fact.content | markdownify }}</div>{% endfor %}
 </details>{% endif %}
 </div>
@@ -47,7 +47,7 @@ title: John's site
 <a href="/articles/">click here to see all articles</a></p>
 <section id="buttons" aria-labelledby="buttons-title">
 <h2 id="buttons-title">Buttons</h2>
-<p>This is this site's button, sorry it isn't the standard 88×31 size I'll draw a new one later (Feel free to link my button!)</p>
+<p>This is this site's button, sorry it isn't the standard 88×31 size I'll draw a new one later (feel free to link it btw!)</p>
 <p><a href="/"><img src="/assets/buttons/cool-site-here.gif" alt="aiwass93.github.io: cool site here!" width="170" height="154"></a></p>
 {% if site.data.buttons.size > 0 %}<p id="button-wall">{% for button in site.data.buttons %}<a href="{{ button.link | escape }}"><img src="/assets/buttons/{{ button.image | escape }}" alt="{{ button.title | escape }}" title="{{ button.title | escape }}" width="{{ button.width }}" height="{{ button.height }}" loading="lazy"></a>
 {% endfor %}</p>{% endif %}

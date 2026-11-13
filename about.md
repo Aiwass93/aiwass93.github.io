@@ -9,14 +9,14 @@ The name I'm currently using is John.
 
 I'm an Asian guy currently living in Québec, my English is not good *et mon français est terrible, je suis désolé*.
 
-I like music. I started making noise music from Dec 2025. you can check them out in my [Bilibili channel](https://space.bilibili.com/2022743444) or [Youtube](https://www.youtube.com/@Golden_Age_of_Rape).
-I mainly do noise music. Recently I’ve also started making field recordings, these works are currently only available on Bilibili. I also cover some folk songs I like (sometimes).
+I started making noise music from Dec 2025. you can check them out in my [Bilibili channel](https://space.bilibili.com/2022743444) or [Youtube](https://www.youtube.com/@Golden_Age_of_Rape).
+I mainly do noise music. Recently I’ve also started making field recordings. I also cover some folk songs I like (sometimes) (I sing bad, most of my voice was processed).
 
-I've been using Artix Linux (Runit) for about a year now, with [Luke Smith](https://lukesmith.xyz/)'s LARBS. I'm not into "technology" or "privacy" or "minimalism" or such nerdy stuff, but it's really a good computer setup.
+I've been using Artix Linux (Runit) for about a year now, with [Luke Smith](https://lukesmith.xyz/)'s LARBS. I'm not into "technology" or "privacy" or "minimalism" or such nerdy stuff, but it's really a good setup.
 
 I’m not interested in politics or any political party or ideology. I see politics mainly as something to make fun and it's dangerous to take anything of it seriously.
 
-\-\-\-
+\-\-\-\-\-\-\-\-\-\-\-
 
 ### Things I like:
 
@@ -24,9 +24,12 @@ Noise music/improvised music. any music that make me feel I'm a primitive people
 I listen to noise-related music (harsh noise, hnw, power electronics), industrial related music (industrial/neofolk) and some folky/ambient music (NSB, BoH) most of the times. I'm also interested in electroacoustic, musique concrète, field recordings, tape music but haven't listened much yet.
 
 *Lolita* and some other books by Vladimir Nabokov. I don't usually like overly ornate writing styles but he's an exception. he has a good sense of humor that sometimes i think it's written for me.
+
 In elementary school I was interested in politic books like *1984* by Orwell, and social science books like *Sapiens: A Brief History of Humankind* and *Homo Deus: A Brief History of Tomorrow* by Yuval Harari. I know I couldn't fully understand everything in these books at the time but I'm sure they shaped the way I think and understand the world to some extent.
 
-Photography of people, like works by Sally Mann, Robert Mapplethorpe, Jock Sturges, David Hamilton.
+I'm currently exploring a new writing style i found very interesting, inspired by Darksmith, I'll post something on this site later.
+
+Photography of people, like some works by Sally Mann, Robert Mapplethorpe, Nobuyoshi Araki (...)
 
 Films that has a unique atmosphere and/or very funny: Angst (1983), C'est arrivé près de chez vous (1992), Pink Flamingos (1972).
 
@@ -34,17 +37,15 @@ Piracy
 
 Feel of boredom, anxiety or fear
 
-\-\-\-
+\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-
 
 ### Things I don't like:
 
-Video games. It only take you away from real pleasure, take it from a hedonist.
-
-Paying
+Video games. **It only take you away from real pleasure**, take it from a hedonist.
 
 Some kinds of films: like Possession (1981), Funeral Parade of Roses (1969). their directors might think they're smarter than the audience and I refuse to accept this kind of humiliation.
 
-\-\-\-
+\-\-\-\-\-\-\-\-
 
 ### The origin of my names
 
