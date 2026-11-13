@@ -1,10 +1,10 @@
 ---
 layout: default
-title: website
+title: John's site
 ---
 <h1>John's site</h1>
 <p>Hi this is my personal website</p>
-<p><a href="/about.html">about</a> / <a href="/links.html">links</a> / <a href="/gallery/">gallery</a></p>
+<p><a href="/about.html">about</a> / <a href="/links.html">links</a> / <a href="/gallery/">gallery</a> / <a href="/feed.xml">feed</a></p>
 <section id="get-to-know-me" aria-labelledby="get-to-know-me-title">
 <h2 id="get-to-know-me-title">Get to know me quickly!</h2>
 <div id="quick-intro">
@@ -42,13 +42,13 @@ title: website
 }
 </script>
 <h2>Articles</h2>
-{% for post in site.posts limit:4 %}<a href="{{ post.url }}">{{ post.title | escape }}</a><br>{% endfor %}
+<p>{% for post in site.posts limit:4 %}<a href="{{ post.url }}">{{ post.title | escape }}</a><br>{% endfor %}
 ......<br>
-<a href="/articles/">click here to see all articles</a>
+<a href="/articles/">click here to see all articles</a></p>
 <section id="buttons" aria-labelledby="buttons-title">
 <h2 id="buttons-title">Buttons</h2>
 <p>This is this site's button, sorry it isn't the standard 88×31 size I'll draw a new one later (Feel free to link my button!)</p>
 <p><a href="/"><img src="/assets/buttons/cool-site-here.gif" alt="aiwass93.github.io: cool site here!" width="170" height="154"></a></p>
-{% if site.data.buttons.size > 0 %}<p>{% for button in site.data.buttons %}<a href="{{ button.link | escape }}"><img src="/assets/buttons/{{ button.image | escape }}" alt="{{ button.title | escape }}" title="{{ button.title | escape }}" width="{{ button.width }}" height="{{ button.height }}" loading="lazy"></a>
+{% if site.data.buttons.size > 0 %}<p id="button-wall">{% for button in site.data.buttons %}<a href="{{ button.link | escape }}"><img src="/assets/buttons/{{ button.image | escape }}" alt="{{ button.title | escape }}" title="{{ button.title | escape }}" width="{{ button.width }}" height="{{ button.height }}" loading="lazy"></a>
 {% endfor %}</p>{% endif %}
 </section>

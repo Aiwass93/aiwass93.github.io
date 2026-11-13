@@ -10,7 +10,7 @@ The name I'm currently using is John.
 I'm an Asian guy currently living in Québec, my English is not good *et mon français est terrible, je suis désolé*.
 
 I like music. I started making noise music from Dec 2025. you can check them out in my [Bilibili channel](https://space.bilibili.com/2022743444) or [Youtube](https://www.youtube.com/@Golden_Age_of_Rape).
-I mainly do noise music. Recently I’ve also started making field recordings, with children/childhood as the main subject. Since it’s somewhat of a gray area, these works are currently only available on Bilibili. I also cover some folk songs I like (sometimes).
+I mainly do noise music. Recently I’ve also started making field recordings, these works are currently only available on Bilibili. I also cover some folk songs I like (sometimes).
 
 I've been using Artix Linux (Runit) for about a year now, with [Luke Smith](https://lukesmith.xyz/)'s LARBS. I'm not into "technology" or "privacy" or "minimalism" or such nerdy stuff, but it's really a good computer setup.
 

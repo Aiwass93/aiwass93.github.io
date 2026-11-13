@@ -1,0 +1,17 @@
+<style>
+:root{--font:Helvetica, Arial, sans-serif;--size:100%;--weight:500;--stroke:0.05px;--emph:0.05px;--narrow:0.96;--bg:#fcfcfc;--fg:#211f1e;--fg-cjk:#333130;--link:#0038a8;--visited:#0038a8;--hover:#0038a8;--look:url(#look)}
+html{background:var(--bg);font-family:var(--font);font-size:var(--size);font-weight:var(--weight);color-scheme:light}
+:where([lang]){color:var(--fg)}
+:where([lang]:lang(zh),[lang]:lang(ja),[lang]:lang(ko)){color:var(--fg-cjk)}
+:is(h1,h2,h3,h4,h5,h6,b,strong,th){font-weight:inherit}
+:is(a,summary){color:var(--link)}a:visited{color:var(--visited)}:is(a,summary):hover{color:var(--hover)}
+#button-wall{display:flex;flex-wrap:wrap;gap:4px}#button-wall img{display:block}
+blockquote{--end:40px}
+@media screen and (forced-colors:none){
+html{-webkit-text-stroke-width:var(--stroke)}
+:is(h1,h2,h3,h4,h5,h6,b,strong,th){-webkit-text-stroke-width:calc(var(--stroke) + var(--emph))}
+body :not(details,svg,img,audio,video,:has(img,audio,video)):not(body :not(details,:has(img,audio,video)) *){filter:var(--look)}
+body :is(p,h1,h2,h3,h4,h5,h6,ul,ol,dl,dt,dd,li,blockquote,pre,div,section,article,figcaption,table,hr,address):not(:has(img,audio,video)):not(body :not(details,:has(img,audio,video)) *){transform:scaleX(var(--narrow));transform-origin:0 0;margin-right:calc(var(--end,0px) + (var(--narrow) - 1) / var(--narrow) * 100%)}
+}
+</style>
+<svg width="0" height="0" style="position:absolute" aria-hidden="true"><filter id="look" color-interpolation-filters="sRGB"><feOffset dx="-.6" dy="-.6" result="a"/><feComposite in="SourceGraphic" in2="a" operator="arithmetic" k2=".5" k3=".5"/><feGaussianBlur stdDeviation="0.6" result="p"/><feImage href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAIAAABMXPacAAABFklEQVR42u3VMQEDQQwEsSWwUAzFUMy/TRkGf426QTDKXfYyl170953b7GY2Xf2gc5OdzKSjH3Su2WaaVj9oL2YAA7yYAQzwZQYwQDOAAZoBDNAMYIBmAAM0AxigGcAAzQAGaAYwQDOAAZoBDNAMYIBmAAM0AxigGcAAzQAGaAYwQDOAAZoBDNAMYIBmAAM0AxigGcAAzQAGaAYwQDOAAZoBDNAMYIBmAAM0AxjAAC9mAAO8mAEM8GUGMEAzgAGaAQzQDGCAZgADNAMYoBnAAM0ABmgGMEAzgAGaAQzQDGCAZgADNAMYoBnAAM0ABmgGMEAzgAGaAQzQDGCAZgADNAMYoBnAAM0ABmgGMEAzgAGaAQzQ//4B8TyBwyL/s9MAAAAASUVORK5CYII=" width="64" height="64" preserveAspectRatio="none"/><feTile/><feDisplacementMap in="p" scale="4" xChannelSelector="R" yChannelSelector="G"/><feGaussianBlur stdDeviation="0.6" result="q"/><feOffset dx="-.6" dy="-.6" result="b"/><feComposite in="q" in2="b" operator="arithmetic" k2=".5" k3=".5"/></filter></svg>

@@ -1,8 +1,9 @@
 [
   {"image": "bisexual.gif", "link": "/", "title": "Bisexual", "width": 88, "height": 31},
   {"image": "harsh-noise.gif", "link": "/", "title": "Harsh Noise", "width": 88, "height": 31},
+  {"image": "feed.gif", "link": "/feed.xml", "title": "Atom feed", "width": 88, "height": 31},
   {"image": "artix-linux.gif", "link": "https://artixlinux.org/", "title": "Artix Linux", "width": 88, "height": 31},
-  {"image": "librewolf.png", "link": "https://librewolf.net/", "title": "Librewolf", "width": 88, "height": 31},
+  {"image": "librewolf.gif", "link": "https://librewolf.net/", "title": "Librewolf", "width": 88, "height": 31},
   {"image": "neovim.gif", "link": "https://neovim.io", "title": "Neovim", "width": 88, "height": 31},
   {"image": "internet-archive.gif", "link": "https://archive.org/", "title": "Internet Archive", "width": 88, "height": 31},
   {"image": "soulseek.gif", "link": "https://www.slsknet.org/", "title": "Soulseek", "width": 88, "height": 31},

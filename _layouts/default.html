@@ -15,5 +15,6 @@ summary::-webkit-details-marker{display:none}
 #quick-intro>details:not([open])::details-content{display:none}
 #buttons img{max-width:100%;max-height:none;image-rendering:pixelated;vertical-align:top}
 </style>
+{% include look.html %}
 {{ content }}
 {% unless page.url == "/" %}<p><a href="/">back</a></p>{% endunless %}
